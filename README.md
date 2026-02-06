@@ -3,12 +3,12 @@
 <img width="1954" height="1095" alt="Screenshot (258)" src="https://github.com/user-attachments/assets/08d48457-23f1-4c83-9a13-53acab2c9c1c" />
 
 
-## 📌 Project Background
+## Project Background
 ElectroHub (multi-city retail electronics company) this Power BI dashboard enables leadership to evaluate operational efficiency and make data-driven decisions that increase revenue and improve margins.
 
 ---
 
-## 🧩 Business Requirements
+## Business Requirements
 
 ✔ Top & bottom 5 products by **Sales / Profit / Quantity Sold**  
 ✔ Sales performance tracked across **daily, monthly, quarterly & annual** trends  
@@ -27,7 +27,7 @@ ElectroHub (multi-city retail electronics company) this Power BI dashboard enabl
 
 ---
 
-## 📊 Key KPIs & Calculated Fields (DAX)
+## Key KPIs & Calculated Fields (DAX)
 
 | Column / Metric | Description |
 |----------------|-------------|
@@ -39,19 +39,19 @@ ElectroHub (multi-city retail electronics company) this Power BI dashboard enabl
 
 ---
 
-## 📈 Executive Summary — Insights & Trends
+## Executive Summary — Insights & Trends
 
 <img width="1921" height="1035" alt="Screenshot (257)" src="https://github.com/user-attachments/assets/03608659-c2db-4288-84b4-47fbffbc782a" />
 
 
-### ✅ Highlights
+### Highlights
 - Top products generate **most revenue AND highest profit**, confirming strong pricing strategy
 - Bottom products show **high quantities sold but low margins**, driven by discounts
 - Monthly sales trends highlight **seasonality**, with significant revenue spikes in promotional periods
 - Certain cities contribute **high order volume but lower Net Sales** → profitability issue
 - Discount analysis reveals opportunities to **reduce unnecessary markdowns**
 
-### ✅ Recommendations
+### Recommendations
 | Insight | Business Action |
 |--------|----------------|
 | High discount erosion on low-margin products | Introduce targeted discounting rules |
@@ -61,7 +61,7 @@ ElectroHub (multi-city retail electronics company) this Power BI dashboard enabl
 
 ---
 
-## 🗂️ Data Structure & Processing
+## Data Structure & Processing
 
 ✔ Data sourced from multiple sheets (`Store Data.xlsx`)  
 ✔ Cleaned & validated in Power BI using Power Query  
@@ -77,7 +77,7 @@ ElectroHub (multi-city retail electronics company) this Power BI dashboard enabl
 
 ---
 
-## 📌 Tools & Skills Used
+## Tools & Skills Used
 - **Microsoft Power BI Desktop**
 - Data Modeling & Star Schema Design
 - DAX (Calculated Columns & Measures)
@@ -87,7 +87,7 @@ ElectroHub (multi-city retail electronics company) this Power BI dashboard enabl
 
 ---
 
-## 🚀 Future Enhancements
+## Future Enhancements
 - Add forecast analytics for demand planning  
 - Automated scheduled refresh with cloud data source  
 - Expand customer analytics (CLV, retention performance)  
